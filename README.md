@@ -1,2 +1,2 @@
 # Password-Generator
-It is a powerful and user-friendly password generator , designed to create strong , secure passwords quickly and easily.
+This project is about building a password generator that creates strong and secure passwords automatically. Users can choose the length and include uppercase letters, numbers, and special characters for better security. The tool helps in generating random and hard-to-crack passwords for websites, apps, and personal accounts. It ensures better security and prevents weak or common passwords.
